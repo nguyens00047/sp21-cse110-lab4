@@ -6,7 +6,7 @@
 5. Line 9 throws an error because it tried to reassign a const variable.
 6. An error is given because it previously tried to reassign a const variable.
 
-##Part 1b
+## Part 1b
 1. Line 12 prints out our index in the loop.
 2. It prints out the discounted Price
 3. The final price will be printed
@@ -21,9 +21,9 @@
 12. 
 A. student.name
 B. student["Grad Year"]
-C. student.greeting
-D. student["Favorite Teacher"]
-E. student.courseLoad[1]
+C. student.greeting()
+D. student["Favorite Teacher"].name;
+E. student.courseLoad[0]
 
 13.
 A. "32", addition sign will just add 2 as a string to the 3
