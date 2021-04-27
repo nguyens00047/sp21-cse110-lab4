@@ -1,4 +1,4 @@
-![debugger](debugger activated.png)
+![debugger](debugger-activated.png)
 ![expressionlist](watch expression list.png)
 1. The bug is that result is concatenating num1 and num2 instead of calculating the sum of the two
 
