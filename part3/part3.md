@@ -1,5 +1,8 @@
+![debugger](debugger.png)
+![expressionlist](watch expression list.png)
 1. The bug is that result is concatenating num1 and num2 instead of calculating the sum of the two
-2.
+
+![fix](fixed.png)
 
 Network Tab:
 3. citylots.json
