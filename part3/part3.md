@@ -4,12 +4,12 @@
 
 ![fix](fixed.png)
 
-Network Tab
+#Network Tab
+
 3. citylots.json
 4. part2.js
 5. 11.7 MB
 6. 2.12 s
-
 7. Mozilla
 8. Apache
 9. Tue, 26 Jan 2021 22:14:13 GMT
