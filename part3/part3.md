@@ -4,7 +4,7 @@
 
 ![fix](fixed.png)
 
-Network Tab:
+Network Tab
 3. citylots.json
 4. part2.js
 5. 11.7 MB
